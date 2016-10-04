@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-muted-contact {
-  color: #bcbaba;
+  color: #ffffff;
   line-height: 25px;
 }
 .text-primary {
@@ -310,7 +310,7 @@ section h3.section-subheading {
 .contact-heading {
   margin: 20px 0;
   text-transform: none;
-  color: #bcbaba;
+  color: #ffffff;
   letter-spacing: 1px;
 }
 #portfolio .portfolio-item {
